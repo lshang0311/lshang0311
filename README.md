@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 # Portfolio Contents
 1. Generative AI
    - [Generative AI Notes](https://github.com/lshang0311/genai-notes)
+2. Programming Language
+   - [Scala](https://github.com/lshang0311/fun-with-weather-scala)
