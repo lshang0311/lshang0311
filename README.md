@@ -32,6 +32,6 @@ Here are some ideas to get you started:
    
 | Topic  | Code/Link   |
 |--------|-------------|
-| Notes  |   link      |
+| Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes)      |
 
 
