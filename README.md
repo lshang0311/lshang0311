@@ -39,8 +39,10 @@ Here are some ideas to get you started:
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
+     | Docker |             🚧                                                     |
 
-4. Research - Papers & Books
+
+5. Research - Papers & Books
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
