@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes)      |
 
 2. Programming Language
+   
 | Topic  | Code/Link   |
 |--------|-------------|
 | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
 3. Data Science Toolkit
+   
 | Topic  | Code/Link   |
 |--------|-------------|
 | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
