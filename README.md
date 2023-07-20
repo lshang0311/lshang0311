@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 3. Data Science Toolkit
    - [Pandas examples](https://github.com/lshang0311/pandas-examples)
 
-1. Generative AI  
+1. Generative AI
+   
 | Topic  | Code/Link   |
 |--------|-------------|
 | Notes  |   link      |
