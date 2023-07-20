@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm currently working on Generative AI frameworks, exploring use cases and the underlying technology.
+
+# Portfolio Contents
+- [Generative AI](https://github.com/lshang0311/genai-notes)
