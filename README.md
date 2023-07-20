@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
-     | ChatGPT | [[How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
+     | ChatGPT | [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
                                                          
     
