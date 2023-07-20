@@ -41,8 +41,11 @@ Here are some ideas to get you started:
      |--------|--------------------------------------------------------------------|
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
      | Docker |             🚧                                                     |
-
-5. Cloud Computing
+   
+5. MLOps
+   🚧
+   
+7. Cloud Computing
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
@@ -50,7 +53,7 @@ Here are some ideas to get you started:
      | GCP    |             🚧                                                     |
 
 
-6. Research - Papers & Books
+8. Research - Papers & Books
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
