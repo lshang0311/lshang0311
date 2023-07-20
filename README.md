@@ -45,5 +45,6 @@ Here are some ideas to get you started:
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
      | ChatGPT | [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
+     | NLP     | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  |
                                                          
     
