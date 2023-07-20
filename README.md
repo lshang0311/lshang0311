@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      |--------|-------------|
      | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes)      |
 
-2. Programming Language
+2. Programming Languages
    
      | Topic  | Code/Link   |
      |--------|-------------|
