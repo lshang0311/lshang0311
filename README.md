@@ -42,8 +42,15 @@ Here are some ideas to get you started:
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
      | Docker |             🚧                                                     |
 
+5. Cloud Computing
+   
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
+     | AWS    |  🚧  |
+     | GCP    |             🚧                                                     |
 
-5. Research - Papers & Books
+
+6. Research - Papers & Books
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
