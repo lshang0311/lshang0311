@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Generative AI frameworks, exploring use cases and the underlying technology.
 - 📫 Feel free to reach out for a chat if you come across something interesting. How to reach me:
      - [LinkedIn](https://www.linkedin.com/in/lei-shang-929590114/)
-     - email: lei.shang@hotmail.com
+     - Email: lei.shang@hotmail.com
 
 # Portfolio Contents
 1. Generative AI
