@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm Lei Shang. Thanks for visiting my GitHub space!
 - 🔭 I'm currently working on Generative AI frameworks, exploring use cases and the underlying technology.
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/lei-shang-929590114/)
+- 📫 How to reach me:
+     - [linkedIn](https://www.linkedin.com/in/lei-shang-929590114/)
+     - [email](lei.shang@hotmail.com)
+
 # Portfolio Contents
 1. Generative AI
    - [Generative AI Notes](https://github.com/lshang0311/genai-notes)
