@@ -24,18 +24,18 @@ Here are some ideas to get you started:
 
 1. Generative AI
    
-     | Topic  | Code/Link   |
-     |--------|-------------|
-     | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes)      |
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
+     | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
 
 2. Programming Languages
    
-     | Topic  | Code/Link   |
-     |--------|-------------|
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
      | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
 3. Data Science Toolkit
    
-     | Topic  | Code/Link   |
-     |--------|-------------|
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
