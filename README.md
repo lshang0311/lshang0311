@@ -27,14 +27,15 @@ Here are some ideas to get you started:
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
+     | LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
 
-2. Programming Languages
+3. Programming Languages
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
-3. Data Science Toolkit
+4. Data Science Toolkit
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
