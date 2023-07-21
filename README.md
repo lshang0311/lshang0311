@@ -32,6 +32,9 @@ Here are some ideas to get you started:
      | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
      | Prompt Engineering | 🚧 |
      | LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
+     | LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
+     | LangChain Core Concepts (Text Splitters) | 🚧 |
+     | LangChain Core Concepts (Vector stores) | 🚧 |
 
 3. Programming Languages
    
