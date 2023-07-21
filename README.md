@@ -69,7 +69,7 @@ Here are some ideas to get you started:
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | LeetCode   |  🚧  |
-     | SOLID Principles in Python       |             🚧                                                     |
+     | SOLID Principles in Python       |   🚧     |
 
 9. Research - Papers & Books that I'm following
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
      | LLM     | [Llama-2 7B Chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat) |
      | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM) |
      |Bayesian Modeling and Computation | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  |
-     |Statistics and data analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
+     |Statistics and Data Analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
 
                                                          
     
