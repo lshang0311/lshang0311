@@ -81,7 +81,9 @@ Here are some ideas to get you started:
      | LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
      | LLM     | [Making fine-tuning cheap & accessible](https://arxiv.org/abs/2106.09685) |
      | LLM     | [Llama-2 7B Chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat) |
-     | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM)
+     | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM) |
+     |Bayesian Modeling and Computation | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  |
+     |Statistics and data analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
 
                                                          
     
