@@ -84,6 +84,8 @@ Here are some ideas to get you started:
      | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM) |
      |Bayesian Modeling and Computation | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  |
      |Statistics and Data Analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
+     | Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) |
+
 
                                                          
     
