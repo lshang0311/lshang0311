@@ -53,7 +53,7 @@ Here are some ideas to get you started:
      | GCP    |             🚧                                                     |
 
 
-8. Research - Papers & Books
+8. Research - Papers & Books that I'm following
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
@@ -62,6 +62,8 @@ Here are some ideas to get you started:
      | Time Series Forecasting | [Deep GPVAR: Upgrading DeepAR For Multi-Dimensional Forecasting](https://medium.com/towards-data-science/deep-gpvar-upgrading-deepar-for-multi-dimensional-forecasting-e39204d90af3) |
      | LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
      | LLM     | [Making fine-tuning cheap & accessible](https://arxiv.org/abs/2106.09685) |
+     | LLM     | [Llama-2 7B Chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat) |
+     | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM)
 
                                                          
     
