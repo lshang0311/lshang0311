@@ -61,5 +61,7 @@ Here are some ideas to get you started:
      | NLP     | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  |
      | Time Series Forecasting | [Deep GPVAR: Upgrading DeepAR For Multi-Dimensional Forecasting](https://medium.com/towards-data-science/deep-gpvar-upgrading-deepar-for-multi-dimensional-forecasting-e39204d90af3) |
      | LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
+     | LLM     | [Making fine-tuning cheap & accessible](https://medium.com/barnacle-labs/beyond-data-hoovering-the-nuanced-reality-of-training-large-language-models-llms-79aa107c17db) |
+
                                                          
     
