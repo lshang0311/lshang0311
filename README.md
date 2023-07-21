@@ -31,7 +31,7 @@ Here are some ideas to get you started:
      |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
      | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
      | Prompt Engineering | 🚧 |
-     | LangChain Core Concepts (Chain, Agents, Tools) | 🚧 |
+     | LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
 
 3. Programming Languages
    
