@@ -52,8 +52,13 @@ Here are some ideas to get you started:
      | AWS    |  🚧  |
      | GCP    |             🚧                                                     |
 
+8. Clean Code
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
+     | LeetCode   |  🚧  |
+     | SOLID Principles in Python       |             🚧                                                     |
 
-8. Research - Papers & Books that I'm following
+9. Research - Papers & Books that I'm following
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
