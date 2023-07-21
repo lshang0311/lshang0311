@@ -43,6 +43,7 @@ Here are some ideas to get you started:
      | Docker |             🚧                                                     |
    
 5. MLOps
+   *Productionising Machine learning models*
    🚧
    
 7. Cloud Computing
