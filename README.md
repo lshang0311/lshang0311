@@ -45,7 +45,11 @@ Here are some ideas to get you started:
 5. MLOps
 
    *Productionising Machine learning models*
-   🚧
+    
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
+     | Vertex AI |  🚧    |
+                                    
    
 7. Cloud Computing
    
