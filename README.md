@@ -60,5 +60,6 @@ Here are some ideas to get you started:
      | ChatGPT | [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
      | NLP     | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  |
      | Time Series Forecasting | [Deep GPVAR: Upgrading DeepAR For Multi-Dimensional Forecasting](https://medium.com/towards-data-science/deep-gpvar-upgrading-deepar-for-multi-dimensional-forecasting-e39204d90af3) |
+     | LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
                                                          
     
