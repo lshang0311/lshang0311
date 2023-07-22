@@ -61,6 +61,7 @@ Here are some ideas to get you started:
     
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
+     |FastAPI and Docker | [Quick Start with FastAPI and Docker](https://fastapi.tiangolo.com/deployment/docker/)  | 
      | Vertex AI |  🚧    |
      | AWS SageMaker | 🚧 [Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK](https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/)|
      | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
