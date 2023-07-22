@@ -44,6 +44,7 @@ Here are some ideas to get you started:
      | LLM empowered sentiment analysis |  🚧   |
      | Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
      |Efficiently Applying LLMs to Transform Semi-Structured Data | [News](https://www.infoq.com/news/2023/05/data-transformation-using-llms/); [Code and Paper](https://github.com/HazyResearch/evaporate) | 
+     | LLM empowered personalisation and recommendation systems |🚧 |
 
 4. Programming Languages
    
