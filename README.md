@@ -40,7 +40,7 @@ Here are some ideas to get you started:
    *Real-World Applications and Case Studies*
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
-     | LLM empowered Sentiment analysis |  🚧   |
+     | LLM empowered sentiment analysis |  🚧   |
      | Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
 
 4. Programming Languages
