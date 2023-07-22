@@ -62,6 +62,8 @@ Here are some ideas to get you started:
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Vertex AI |  🚧    |
+     | AWS SageMaker | 🚧 (An example using FastAPI, Docker and AWS SageMaker) |
+     | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
                                     
    
 7. Cloud Computing
