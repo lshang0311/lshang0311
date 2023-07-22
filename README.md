@@ -40,22 +40,23 @@ Here are some ideas to get you started:
    *Real-World Applications and Case Studies*
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
-     | Sentiment analysis |  🚧   |
+     | LLM empowered Sentiment analysis |  🚧   |
+     | Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
 
-3. Programming Languages
+4. Programming Languages
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
-4. Data Science Toolkit
+5. Data Science Toolkit
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
      | Docker |             🚧                                                     |
    
-5. MLOps
+6. MLOps
 
    *Productionising machine learning models*
     
