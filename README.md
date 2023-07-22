@@ -47,7 +47,7 @@ Here are some ideas to get you started:
      |Efficiently Applying LLMs to Transform Semi-Structured Data | [News](https://www.infoq.com/news/2023/05/data-transformation-using-llms/); [Code and Paper](https://github.com/HazyResearch/evaporate) | 
      | LLM empowered personalisation and recommendation systems |🚧 |
      | Question Answering Over Documents through RAG (Retrieval Augmented Generation) | 🚧 |
-     |Predicting the Financial Market with Large Language Models | 🚧 |
+     |Predicting the Financial Market with Large Language Models | [🔗](https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/) |
 
 4. Programming Languages
    
