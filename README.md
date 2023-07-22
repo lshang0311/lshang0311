@@ -35,6 +35,12 @@ Here are some ideas to get you started:
      | LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
      | LangChain Core Concepts (Text Splitters) | 🚧 |
      | LangChain Core Concepts (Vector stores) | 🚧 |
+2. Data Science in Action
+
+   *Real-World Applications and Case Studies*
+     | Topic  | Code/Link                                                          |
+     |--------|--------------------------------------------------------------------|
+     | Sentiment analysis |  🚧   |
 
 3. Programming Languages
    
