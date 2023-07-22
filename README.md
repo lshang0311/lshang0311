@@ -36,6 +36,7 @@ Here are some ideas to get you started:
      | LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
      | LangChain Core Concepts (Text Splitters) | 🚧 |
      | LangChain Core Concepts (Vector stores) | 🚧 |
+     | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
 2. Data Science in Action
 
    *Real-World Applications and Case Studies*
