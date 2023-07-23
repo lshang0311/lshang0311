@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 1. [Generative AI](#Generative-AI)
 2. [Data Science in Action](#Data-Science-in-Action)
-
+3. [Programming Languages](#Programming-Languages)
+   
 ## Generative AI
 
 *Exploring the Trend, Technology, and Latest Advances*
@@ -55,60 +56,56 @@ Here are some ideas to get you started:
 | Question Answering Over Documents through RAG (Retrieval Augmented Generation) | 🚧 |
 |Predicting the Financial Market with Large Language Models | [🔗](https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/) |
 
-3. **Programming Languages**
+## Programming Languages
    
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+| Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
-4. **Data Science Toolkit**
+## Data Science Toolkit
    
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
-     | Docker |             🚧                                                     |
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+| Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
+| Docker |             🚧                                                     |
    
-5. **MLOps**
+## MLOps
 
-   *Productionising machine learning models*
+*Productionising machine learning models*
     
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     |FastAPI and Docker Compose| [Quick Start with FastAPI and Docker](https://github.com/lshang0311/fastapi-docker-quickstart) | 
-     | Vertex AI |  🚧    |
-     | AWS SageMaker | 🚧 [Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK](https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/)|
-     | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+|FastAPI and Docker Compose| [Quick Start with FastAPI and Docker](https://github.com/lshang0311/fastapi-docker-quickstart) | 
+| Vertex AI |  🚧    |
+| AWS SageMaker | 🚧 [Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK](https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/)|
+| AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
                                     
    
-6. **Cloud Computing**
+## Cloud Computing
    
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | AWS    |  🚧  |
-     | GCP    |             🚧                                                     |
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+| AWS    |  🚧  |
+| GCP    |             🚧                                                     |
 
-7. **Clean Code**
+## Clean Code
    
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | LeetCode   |  🚧  |
-     | SOLID Principles in Python       |   🚧     |
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+| LeetCode   |  🚧  |
+| SOLID Principles in Python       |   🚧     |
 
-8. **Research - Papers & Books that I'm following**
+## Research - Papers & Books that I'm following
 
-     | Topic   | Code/Link                                                          |
-     |---------|--------------------------------------------------------------------|
-     | ChatGPT | [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
-     | NLP     | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  |
-     | Time Series Forecasting | [Deep GPVAR: Upgrading DeepAR For Multi-Dimensional Forecasting](https://medium.com/towards-data-science/deep-gpvar-upgrading-deepar-for-multi-dimensional-forecasting-e39204d90af3) |
-     | LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
-     | LLM     | [Making fine-tuning cheap & accessible](https://arxiv.org/abs/2106.09685) |
-     | LLM     | [Llama-2 7B Chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat) |
-     | LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM) |
-     |Bayesian Modeling and Computation | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  |
-     |Statistics and Data Analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
-     | Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) |
-
-
-                                                         
-    
+| Topic   | Code/Link                                                          |
+|---------|--------------------------------------------------------------------|
+| ChatGPT | [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf])|
+| NLP     | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  |
+| Time Series Forecasting | [Deep GPVAR: Upgrading DeepAR For Multi-Dimensional Forecasting](https://medium.com/towards-data-science/deep-gpvar-upgrading-deepar-for-multi-dimensional-forecasting-e39204d90af3) |
+| LLM     | [Aligning language models to follow instructions](https://openai.com/research/instruction-following) |
+| LLM     | [Making fine-tuning cheap & accessible](https://arxiv.org/abs/2106.09685) |
+| LLM     | [Llama-2 7B Chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat) |
+| LLM     | [Data Mining Research Group at Tsinghua University](https://huggingface.co/THUDM) |
+|Bayesian Modeling and Computation | [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  |
+|Statistics and Data Analysis| [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-python/index.html) |
+| Reinforcement Learning | [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) |
