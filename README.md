@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 1. [Generative AI](#generative-ai)
 2. [Data Science in Action](#data-science-in-action)
 3. [Programming Languages](#programming-languages)
-   
+4. [Data Science Toolkit](#data-science-toolkit)
+5. [MLOps](#mlops)
+6. [Cloud Computing](#cloud-computing)
+7. [Clean Code](#clean-code)
+8. [Research](#research)
+
+
 ## Generative AI
 
 *Exploring the Trend, Technology, and Latest Advances*
@@ -95,7 +101,9 @@ Here are some ideas to get you started:
 | LeetCode   |  🚧  |
 | SOLID Principles in Python       |   🚧     |
 
-## Research - Papers & Books that I'm following
+## Research
+
+*Papers & Books that I'm following*
 
 | Topic   | Code/Link                                                          |
 |---------|--------------------------------------------------------------------|
