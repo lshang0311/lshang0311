@@ -42,10 +42,9 @@ Here are some ideas to get you started:
 | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
    
 ## Data Science in Action
-
-   *Real-World Applications and Case Studies*
+*Real-World Applications and Case Studies*
    
-     | Topic  | Code/Link                                                          |
+| Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | LLM empowered sentiment analysis |  🚧   |
      | Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
