@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 # Portfolio Contents
 
-1. [Generative AI](#Generative-AI)
-2. [Data Science in Action](#Data-Science-in-Action)
-3. [Programming Languages](#Programming-Languages)
+1. [Generative AI](#generative-ai)
+2. [Data Science in Action](#data-science-in-action)
+3. [Programming Languages](#programming-languages)
    
 ## Generative AI
 
