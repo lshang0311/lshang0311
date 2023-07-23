@@ -28,6 +28,7 @@ Here are some ideas to get you started:
    
    *Exploring the Trend, Technology, and Latest Advances*
    
+   
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
