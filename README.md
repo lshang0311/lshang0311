@@ -25,22 +25,20 @@ Here are some ideas to get you started:
 1. [Generative AI](#Generative-AI)
 
 ## Generative AI
-   
-   *Exploring the Trend, Technology, and Latest Advances*
-   
-   
-     | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
-     | LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
-     |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
-     | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
-     | Prompt Engineering | 🚧 |
-     | LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
-     | LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
-     | LangChain Core Concepts (Text Splitters) | 🚧 |
-     | LangChain Core Concepts (Vector stores) | 🚧 |
-     | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
+*Exploring the Trend, Technology, and Latest Advances*
+      
+| Topic  | Code/Link                                                          |
+|--------|--------------------------------------------------------------------|
+| Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
+| LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
+|Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
+| Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
+| Prompt Engineering | 🚧 |
+| LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
+| LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
+| LangChain Core Concepts (Text Splitters) | 🚧 |
+| LangChain Core Concepts (Vector stores) | 🚧 |
+| LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
    
 2. **Data Science in Action**
 
