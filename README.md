@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 *Real-World Applications and Case Studies*
    
 | Topic  | Code/Link                                                          |
-     |--------|--------------------------------------------------------------------|
-     | LLM empowered sentiment analysis |  🚧   |
-     | Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
-     |Efficiently Applying LLMs to Transform Semi-Structured Data | [News](https://www.infoq.com/news/2023/05/data-transformation-using-llms/); [Code and Paper](https://github.com/HazyResearch/evaporate) | 
-     | LLM empowered personalisation and recommendation systems |🚧 |
-     | Question Answering Over Documents through RAG (Retrieval Augmented Generation) | 🚧 |
-     |Predicting the Financial Market with Large Language Models | [🔗](https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/) |
+|--------|--------------------------------------------------------------------|
+| LLM empowered sentiment analysis |  🚧   |
+| Scale document question answering using LLMs | [🔗](https://www.sensible.so/learn/llm-document-extraction) |
+|Efficiently Applying LLMs to Transform Semi-Structured Data | [News](https://www.infoq.com/news/2023/05/data-transformation-using-llms/); [Code and Paper](https://github.com/HazyResearch/evaporate) | 
+| LLM empowered personalisation and recommendation systems |🚧 |
+| Question Answering Over Documents through RAG (Retrieval Augmented Generation) | 🚧 |
+|Predicting the Financial Market with Large Language Models | [🔗](https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/) |
 
 3. **Programming Languages**
    
