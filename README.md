@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 # Portfolio Contents
 
-1. Generative AI
+1. **Generative AI**
    
    *Exploring the Trend, Technology, and Latest Advances*
+   
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
@@ -37,9 +38,11 @@ Here are some ideas to get you started:
      | LangChain Core Concepts (Text Splitters) | 🚧 |
      | LangChain Core Concepts (Vector stores) | 🚧 |
      | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
-2. Data Science in Action
+   
+2. **Data Science in Action**
 
    *Real-World Applications and Case Studies*
+   
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | LLM empowered sentiment analysis |  🚧   |
@@ -49,20 +52,20 @@ Here are some ideas to get you started:
      | Question Answering Over Documents through RAG (Retrieval Augmented Generation) | 🚧 |
      |Predicting the Financial Market with Large Language Models | [🔗](https://www.enterpriseai.news/2023/06/29/predicting-the-financial-market-with-large-language-models/) |
 
-4. Programming Languages
+3. **Programming Languages**
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Scala  |   [Scala](https://github.com/lshang0311/fun-with-weather-scala)    |
 
-5. Data Science Toolkit
+4. **Data Science Toolkit**
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
      | Docker |             🚧                                                     |
    
-6. MLOps
+5. **MLOps**
 
    *Productionising machine learning models*
     
@@ -74,20 +77,21 @@ Here are some ideas to get you started:
      | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
                                     
    
-7. Cloud Computing
+6. **Cloud Computing**
    
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | AWS    |  🚧  |
      | GCP    |             🚧                                                     |
 
-8. Clean Code
+7. **Clean Code**
+   
      | Topic  | Code/Link                                                          |
      |--------|--------------------------------------------------------------------|
      | LeetCode   |  🚧  |
      | SOLID Principles in Python       |   🚧     |
 
-9. Research - Papers & Books that I'm following
+8. **Research - Papers & Books that I'm following**
 
      | Topic   | Code/Link                                                          |
      |---------|--------------------------------------------------------------------|
