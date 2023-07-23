@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 # Portfolio Contents
 
 1. [Generative AI](#Generative-AI)
+2. [Data Science in Action](#Data-Science-in-Action)
 
 ## Generative AI
 *Exploring the Trend, Technology, and Latest Advances*
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 | LangChain Core Concepts (Vector stores) | 🚧 |
 | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
    
-2. **Data Science in Action**
+## Data Science in Action
 
    *Real-World Applications and Case Studies*
    
