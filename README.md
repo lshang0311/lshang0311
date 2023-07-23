@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 2. [Data Science in Action](#Data-Science-in-Action)
 
 ## Generative AI
+
 *Exploring the Trend, Technology, and Latest Advances*
       
 | Topic  | Code/Link                                                          |
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
 | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
    
 ## Data Science in Action
+
 *Real-World Applications and Case Studies*
    
 | Topic  | Code/Link                                                          |
