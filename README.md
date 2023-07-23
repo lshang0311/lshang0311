@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 |--------|--------------------------------------------------------------------|
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
 | Llama 2| [Running Llama 2 on Your Local GPU](https://medium.com/@lei.shang/run-llama-2-on-your-local-gpu-62ef019fc108) |
+| Llama 2| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
 | LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
 |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
 | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
