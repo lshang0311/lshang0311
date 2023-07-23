@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 # Portfolio Contents
 
-
-1. [Generative AI](#Generative AI)
+1. [Generative AI](#Generative-AI)
 
 ## Generative AI
    
