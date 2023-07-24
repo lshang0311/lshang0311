@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
 |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
 | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
+| Notes | [Top 5 Vector Database Solutions for Your AI Project](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/#:~:text=Conclusion,indexing%20and%20similarity%20search%20landscape.) |
 | Prompt Engineering | 🚧 |
 | LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
 | LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
