@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 | Llama 2| [Running Llama 2 on Your Local GPU](https://medium.com/@lei.shang/run-llama-2-on-your-local-gpu-62ef019fc108) |
 | Llama 2| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
+| LLM Architectures and Applications | [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) |
 |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
 | Notes  | [Use case: Retrieval Augmented Generation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2); [Question Answering Over Documents through RAG (Retrieval Augmented Generation)](https://docs.langchain.com/docs/use-cases/qa-docs) |
 | Notes | [Top 5 Vector Database Solutions for Your AI Project](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/#:~:text=Conclusion,indexing%20and%20similarity%20search%20landscape.) |
