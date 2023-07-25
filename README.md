@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 | Vertex AI |  🚧    |
 | AWS SageMaker | 🚧 [Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK](https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/)|
 | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
+| Kubeflow | 🚧 |
                                     
    
 ## Cloud Computing
