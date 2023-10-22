@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 |--------|--------------------------------------------------------------------|
 | AWS    |  🚧  |
 | GCP    |             🚧                                                     |
+| MS Azure | 🚧 |
 
 ## Clean Code
    
