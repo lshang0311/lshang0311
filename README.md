@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 | Pandas | [Pandas examples](https://github.com/lshang0311/pandas-examples)   |
 | Docker |             🚧                                                     |
    
-## MLOps
+## MLOps/DevOps
 
 *Productionising machine learning models*
     
@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 | AWS SageMaker | 🚧 [Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK](https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/)|
 | AWS Lambda | 🚧 (An example using FastAPI, Docker and AWS Lambda) |
 | Kubeflow | 🚧 |
+| Terraform | 🚧 |
                                     
    
 ## Cloud Computing
