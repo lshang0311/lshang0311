@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 | LangChain Core Concepts (Text Splitters) | 🚧 |
 | LangChain Core Concepts (Vector stores) | 🚧 |
 | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
+| RAGs | [Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data](https://blog.llamaindex.ai/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1) | 
    
 ## Data Science in Action
 
