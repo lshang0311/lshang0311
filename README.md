@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 |--------|--------------------------------------------------------------------|
 | AI Agents | [AutoGen](https://microsoft.github.io/autogen/), [CrewAI](https://www.crewai.com/)  |
 | LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
-| Llama 2| [Running Llama 2 on Your Local GPU](https://medium.com/@lei.shang/run-llama-2-on-your-local-gpu-62ef019fc108) |
-| Llama 2| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
+| Finetuning LLMs| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
 | LLM Architectures and Applications | [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) |
 |Notes   | [Use case: Recommendation using embeddings and nearest neighbor search](https://github.com/openai/openai-cookbook/blob/main/examples/Recommendation_using_embeddings.ipynb) |
