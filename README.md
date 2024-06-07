@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | Topic  | Code/Link                                                          |
 |--------|--------------------------------------------------------------------|
 | AI Agents | [AutoGen](https://microsoft.github.io/autogen/), [CrewAI](https://www.crewai.com/)  |
-| Finetuning LLMs| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
+| Finetuning LLMs|[How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) |
 | RAGs | [Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data](https://blog.llamaindex.ai/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1) | 
 | Prompt Engineering | 🚧 |
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
