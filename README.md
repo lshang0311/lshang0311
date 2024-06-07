@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 | Topic  | Code/Link                                                          |
 |--------|--------------------------------------------------------------------|
 | AI Agents | [AutoGen](https://microsoft.github.io/autogen/), [CrewAI](https://www.crewai.com/)  |
-| LangSmith | [Get Started with LangSmith](https://medium.com/@lei.shang/getting-started-with-langsmith-a-step-by-step-walkthrough-a5ca09adca43)|
 | Finetuning LLMs| [How to Fine-Tune Llama 2 With Scale's LLM Engine](https://scale.com/blog/fine-tune-llama-2) |
 | Notes  |   [Generative AI Notes](https://github.com/lshang0311/genai-notes) |
 | LLM Architectures and Applications | [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) |
