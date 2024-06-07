@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 | Notes | [Top 5 Vector Database Solutions for Your AI Project](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/#:~:text=Conclusion,indexing%20and%20similarity%20search%20landscape.) |
 | Prompt Engineering | 🚧 |
 | LangChain Core Concepts (Chains, Agents, Tools) | 🚧 |
-| LangChain Core Concepts (Document loaders for unstructured file) | 🚧 |
-| LangChain Core Concepts (Text Splitters) | 🚧 |
-| LangChain Core Concepts (Vector stores) | 🚧 |
 | LLaMA 2 - Every Resource you need | [🔗](https://www.philschmid.de/llama-2) |
 | RAGs | [Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data](https://blog.llamaindex.ai/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1) | 
    
